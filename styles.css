@@ -1,0 +1,8 @@
+body { font-family: Arial; margin: 0; padding: 20px; }
+nav { background: #333; padding: 10px; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+.product { border: 1px solid #ddd; padding: 10px; margin: 10px 0; }
+button { background: #28a745; color: white; border: none; padding: 8px; cursor: pointer; }
+button:hover { background: #218838; }
+form { max-width: 400px; }
+input, textarea { width: 100%; padding: 8px; margin: 5px 0; }
